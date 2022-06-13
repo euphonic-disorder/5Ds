@@ -89,12 +89,12 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=d830cad6&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('navbar'),_vm._ssrNode(" <div class=\"text-black items-center \"><div class=\"border-t-8 border-b-8 md:border-8 border-black md:border-black md:py-48 py-16 px-16 m-16 space-y-4\"><div class=\"font-bold text-8xl md:text-6xl lg:text-8xl text-center whitespace-pre-line\">The 5Ds and you<span>.</span></div> <div class=\"font-mono text-3xl text-center whitespace-pre-line hidden md:block\">millions of jobs, billions of dollars, everyone's lives</div></div> <div class=\"text-gray-400 italic text-center text-2xl mt-32\">\n          Presented by:\n      </div> <div class=\"md:flex justify-center\"><img src=\"/LM-logo.png\" class=\"w-2/3 md:w-1/2 p-12 \"> <img src=\"/2021 STEM logo.png\" class=\"w-1/2 md:w-1/4 p-12\"></div></div>")],2)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=template&id=59584ed8&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('navbar'),_vm._ssrNode(" <div class=\"text-black items-center \"><div class=\"border-t-8 border-b-8 md:border-8 border-black md:border-black md:py-48 py-16 px-16 m-16 space-y-4\"><div class=\"font-bold text-7xl md:text-6xl lg:text-8xl text-center whitespace-pre-line\">The 5Ds and you<span>.</span></div> <div class=\"font-mono text-3xl text-center whitespace-pre-line hidden md:block\">millions of jobs, billions of dollars, everyone's lives</div></div> <div class=\"text-gray-400 italic text-center text-2xl mt-32\">\n          Presented by:\n      </div> <div class=\"md:flex justify-center\"><img src=\"/LM-logo.png\" class=\"w-2/3 md:w-1/2 p-12 \"> <img src=\"/2021 STEM logo.png\" class=\"w-1/2 md:w-1/4 p-12\"></div></div>")],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=d830cad6&
+// CONCATENATED MODULE: ./pages/index.vue?vue&type=template&id=59584ed8&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/index.vue?vue&type=script&lang=js&
 //
