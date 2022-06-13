@@ -43,7 +43,7 @@ module.exports =
 /******/
 /******/ 		// "0" is the signal for "already loaded"
 /******/ 		if(installedChunks[chunkId] !== 0) {
-/******/ 			var chunk = require("./" + ({"1":"components/navbar","2":"components/nuxt-logo","3":"components/tutorial","4":"pages/about","5":"pages/home","6":"pages/resources"}[chunkId]||chunkId) + ".js");
+/******/ 			var chunk = require("./" + ({"1":"components/navbar","2":"components/nuxt-logo","3":"components/tutorial","4":"pages/about","5":"pages/index","6":"pages/resources"}[chunkId]||chunkId) + ".js");
 /******/ 			var moreModules = chunk.modules, chunkIds = chunk.ids;
 /******/ 			for(var moduleId in moreModules) {
 /******/ 				modules[moduleId] = moreModules[moduleId];
@@ -1418,11 +1418,11 @@ function shouldScrollToTop(route) {
 
 
 
-const _fa187272 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 4).then(__webpack_require__.bind(null, 24)));
-
-const _44983495 = () => interopDefault(__webpack_require__.e(/* import() | pages/home */ 5).then(__webpack_require__.bind(null, 25)));
+const _fa187272 = () => interopDefault(__webpack_require__.e(/* import() | pages/about */ 4).then(__webpack_require__.bind(null, 25)));
 
 const _6ec3f45f = () => interopDefault(__webpack_require__.e(/* import() | pages/resources */ 6).then(__webpack_require__.bind(null, 26)));
+
+const _baa8bce8 = () => interopDefault(__webpack_require__.e(/* import() | pages/index */ 5).then(__webpack_require__.bind(null, 27)));
 
 const emptyFn = () => {};
 
@@ -1438,13 +1438,13 @@ const routerOptions = {
     component: _fa187272,
     name: "about"
   }, {
-    path: "/home",
-    component: _44983495,
-    name: "home"
-  }, {
     path: "/resources",
     component: _6ec3f45f,
     name: "resources"
+  }, {
+    path: "/",
+    component: _baa8bce8,
+    name: "index"
   }],
   fallback: false
 };
@@ -2231,7 +2231,7 @@ const layouts = {
   }
 });
 // CONCATENATED MODULE: ./.nuxt/components/index.js
-const Navbar = () => __webpack_require__.e(/* import() | components/navbar */ 1).then(__webpack_require__.bind(null, 27)).then(c => wrapFunctional(c.default || c));
+const Navbar = () => __webpack_require__.e(/* import() | components/navbar */ 1).then(__webpack_require__.bind(null, 21)).then(c => wrapFunctional(c.default || c));
 const NuxtLogo = () => __webpack_require__.e(/* import() | components/nuxt-logo */ 2).then(__webpack_require__.bind(null, 28)).then(c => wrapFunctional(c.default || c));
 const Tutorial = () => __webpack_require__.e(/* import() | components/tutorial */ 3).then(__webpack_require__.bind(null, 29)).then(c => wrapFunctional(c.default || c)); // nuxt/nuxt.js#8607
 

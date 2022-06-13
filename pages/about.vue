@@ -1,5 +1,6 @@
 <template>
   <div class="space-y-8 min-h-screen p-8">
+    <navbar></navbar>
       <h1 class="text-black flex text-black font-bold font-mono text-5xl">
           About
       </h1>

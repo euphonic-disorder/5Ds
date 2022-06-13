@@ -5,7 +5,7 @@
     "components/nuxt-logo.js": "components/nuxt-logo.js",
     "components/tutorial.js": "components/tutorial.js",
     "pages/about.js": "pages/about.js",
-    "pages/home.js": "pages/home.js",
+    "pages/index.js": "pages/index.js",
     "pages/resources.js": "pages/resources.js",
     "server.js": "server.js"
   },
@@ -14,7 +14,7 @@
     "components/nuxt-logo.js": "components/nuxt-logo.js.map",
     "components/tutorial.js": "components/tutorial.js.map",
     "pages/about.js": "pages/about.js.map",
-    "pages/home.js": "pages/home.js.map",
+    "pages/index.js": "pages/index.js.map",
     "pages/resources.js": "pages/resources.js.map",
     "server.js": "server.js.map"
   }

@@ -1,5 +1,7 @@
 <template>
   <div>
+         <navbar></navbar>
+
       <div class="text-black items-center ">
           <div class="border-8 border-black py-48 px-16 m-16 space-y-4">
               <div class="font-bold text-5xl lg:text-8xl text-center whitespace-pre-line">The 5Ds and you<span class="">.</span> </div>
