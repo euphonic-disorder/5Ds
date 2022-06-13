@@ -1,0 +1,20 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/caleboh/Documents/Folders/School/Archives/2021-2022 Junior Year/Community Challenge/Website/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/caleboh/Documents/Folders/School/Archives/2021-2022 Junior Year/Community Challenge/Website/pages/home.vue",
+    "chunkName": "pages/home"
+  },
+  {
+    "name": "resources",
+    "path": "/resources",
+    "component": "/Users/caleboh/Documents/Folders/School/Archives/2021-2022 Junior Year/Community Challenge/Website/pages/resources.vue",
+    "chunkName": "pages/resources"
+  }
+]
