@@ -81,14 +81,15 @@ var component = Object(componentNormalizer["a" /* default */])(
 // ESM COMPAT FLAG
 __webpack_require__.r(__webpack_exports__);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/resources.vue?vue&type=template&id=dbbe5ff0&
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-8 min-h-screen p-8"},[_c('navbar'),_vm._ssrNode(" <h1 class=\"text-black flex text-black font-bold font-mono text-5xl\">\n        Resources\n        \n    </h1> <h2 class=\"text-3xl font-semibold\">Lockheed Martin Presentation</h2> <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vSjRPz_224kbdqWM1F1JNc6crgLJKIJ57FbShK7L9JyJXyjurd_f8Oot2XvtL8OQw/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"1280\" height=\"749\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe> <h2 class=\"text-3xl font-semibold\">Challenge Night Presentation</h2> <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQy0bFFVBUAuDdi2OO21IJ6F9MhWlgQk9d-DPRUDjOOr75hnzrDYuZPWRpb4ZNY8iUgZM0UsIc3A7Cv/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>")],2)}
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/resources.vue?vue&type=template&id=5c85a641&
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('navbar'),_vm._ssrNode(" <div class=\"space-y-8 min-h-screen p-8\"><h1 class=\"text-black flex text-black font-bold font-mono text-5xl\">\n          Resources\n  \n      </h1> <h2 class=\"text-3xl font-semibold\">Lockheed Martin Presentation</h2> <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vSjRPz_224kbdqWM1F1JNc6crgLJKIJ57FbShK7L9JyJXyjurd_f8Oot2XvtL8OQw/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"1280\" height=\"749\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe> <h2 class=\"text-3xl font-semibold\">Challenge Night Presentation</h2> <iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vQy0bFFVBUAuDdi2OO21IJ6F9MhWlgQk9d-DPRUDjOOr75hnzrDYuZPWRpb4ZNY8iUgZM0UsIc3A7Cv/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"allowfullscreen\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe></div>")],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./pages/resources.vue?vue&type=template&id=dbbe5ff0&
+// CONCATENATED MODULE: ./pages/resources.vue?vue&type=template&id=5c85a641&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/resources.vue?vue&type=script&lang=js&
+//
 //
 //
 //
